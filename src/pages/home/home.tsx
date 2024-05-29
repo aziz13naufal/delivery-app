@@ -1,4 +1,3 @@
-import React from 'react'
 import MainBanner from "./../../components/mainBanner/mainBanner.tsx"
 import SearchInput from "./../../components/input/searchInput.tsx"
 import Badge from "./../../components/badge/badge.tsx"

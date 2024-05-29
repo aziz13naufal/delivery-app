@@ -1,5 +1,3 @@
-import React from 'react'
-
 const MenuCard2 = ({image, price, title}: any) => {
   return (
     <div className="w-full p-4 rounded-3xl bg-white border-2 border-white flex gap-4">

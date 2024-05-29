@@ -1,5 +1,4 @@
-import React, { useState } from 'react'
-import SearchIcon from "./../icon/search.tsx"
+import { useState } from 'react'
 import CartIcon from "./../icon/cart.tsx"
 
 const Navbar = () => {
